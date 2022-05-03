@@ -1,0 +1,55 @@
+body{
+    background: #383737;
+}
+
+input{
+    background: none;
+    border: none;
+    color: beige;
+    margin: 30px;
+}
+
+
+header{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.main{
+    text-align: center;
+    margin: 30px;
+}
+
+h1{
+    color: beige;
+}
+h2{
+    color: beige;
+}
+
+.item-text_strike{
+    color: beige;
+    font-size: 24px;
+    text-decoration: line-through;
+    
+}
+.item-text{
+    color: beige;
+    font-size: 24px;
+    
+}
+
+.btn_del_style{
+    background: none;
+    color: blanchedalmond;
+    margin-left: 40px;
+    
+}
+
+.item-todo{
+    margin: 15px;
+}
+
+span{
+    color: rgb(20, 197, 220);
+}
